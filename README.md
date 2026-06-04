@@ -14,7 +14,7 @@ GIS project analyzing road density across Quezon City districts.
 - Philippine Administrative Boundaries
 
 ## Outputs
-![Map](outputs/MERCADO_FINAL.png)
+![Map](exports/MERCADO_FINAL.png)
 
 ## Author
 Sebastian Mercado
