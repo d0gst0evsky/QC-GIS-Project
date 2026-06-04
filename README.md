@@ -1,2 +1,20 @@
-# QC-GIS-Project
-EPSG:32561 Quezon City Road Map Density 
+# Quezon City Road Density Analysis
+#EPSG:32651 - WGS 84
+
+## Description
+GIS project analyzing road density across Quezon City districts.
+
+## Tools Used
+- QGIS
+- OpenStreetMap
+- QuickOSM
+
+## Data Sources
+- OpenStreetMap
+- Philippine Administrative Boundaries
+
+## Outputs
+![Map](outputs/MERCADO_FINAL.png)
+
+## Author
+Sebastian Mercado
