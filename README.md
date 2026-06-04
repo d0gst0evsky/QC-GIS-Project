@@ -2,7 +2,7 @@
 #EPSG:32651 - WGS 84
 
 ## Description
-GIS project analyzing road density across Quezon City districts.
+GIS project analyzing road density across Quezon City barangays.
 
 ## Tools Used
 - QGIS
